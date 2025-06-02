@@ -22,15 +22,5 @@ This project analyzes MoEngage documentation articles and automatically suggests
 
 Folder Structure:
 
-moengage-ai-agent/
-├── analyzer/
-│ └── analyze_article_phi2.py
-├── revision/
-│ └── revise_article_phi2.py
-├── outputs/
-│ ├── original_raise_support_ticket.txt
-│ ├── analysis_raise_support_ticket.md
-│ └── revised_raise_support_ticket.md
-├── requirements.txt
-└── README.md
+<pre> ```bash moengage-ai-agent/ ├── analyzer/ │ └── analyze_article_phi2.py ├── revision/ │ └── revise_article_phi2.py ├── outputs/ │ ├── original_raise_support_ticket.txt │ ├── analysis_raise_support_ticket.md │ └── revised_raise_support_ticket.md ├── requirements.txt └── README.md ``` </pre>
 
