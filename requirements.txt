@@ -1,0 +1,6 @@
+transformers>=4.40.0
+accelerate>=0.28.0
+bitsandbytes>=0.43.0
+readability-lxml>=0.8.1
+beautifulsoup4>=4.13.0
+requests>=2.31.0
